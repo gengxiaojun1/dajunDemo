@@ -953,6 +953,9 @@ body:not(.post-template) .post-title {
     margin: 0;
     font-size: 0.9em;
     line-height: 1.7em;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
 }
 
 .read-more {
@@ -1607,7 +1610,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 @media only screen and (max-width: 900px) {
-   
+
     .main-header {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;

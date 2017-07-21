@@ -11,9 +11,13 @@ logo: 'assets/images/ghost.png'
 ---
 
 
-1. Sass介绍
-Sass是基于Ruby的 CSS预处理器。less是基于JavaScript的CSS预处理器。
-对于大文件的编译，Sass是略胜less。
+##### 什么是 Sass ?
+
+SASS是一种CSS的开发工具，提供了许多便利的写法，大大节省了设计者的时间，使得CSS的开发，变得简单和可维护。 本文总结了在项目中bootstrap Sass如何编译。我的目标是，有了这篇文章，日常的一般使用就不需要去看官方文档了。
+
+##### 安装
+
+SASS是Ruby语言写的，但是两者的语法没有关系。不懂Ruby，照样使用。只是必须先安装Ruby，然后再安装SASS。
 
 ##### 首先进入<code>bootstrap</code>官网
 
