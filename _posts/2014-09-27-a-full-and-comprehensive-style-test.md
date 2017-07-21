@@ -24,24 +24,7 @@ SASS是Ruby语言写的，但是两者的语法没有关系。不懂Ruby，照�
 
 > [下载bootstrap Sass链接](http://v3.bootcss.com/getting-started/)
 
-如图:
-
-
-
-![
-](http://upload-images.jianshu.io/upload_images/5982972-615448eed545325d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
-下载好以后解压完目录:
-
-![Sass 文件目录.png](http://upload-images.jianshu.io/upload_images/5982972-bda9c2c1575d2d7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-
-
-我们只需要吧　<code>assets</code>　这个目录放到项目public下面,文件目录结构图:
+下载好以后解压完目录,我们只需要吧　<code>assets</code>　这个目录放到项目public下面,文件目录结构图:
 
 
 ![assets目录.png](http://upload-images.jianshu.io/upload_images/5982972-957bd37fa3aaf5e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
