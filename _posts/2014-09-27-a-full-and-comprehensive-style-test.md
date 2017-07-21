@@ -9,14 +9,12 @@ categories: 'casper'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
-## 编程中我们会遇到多少挫折？表放弃，沙漠尽头必是绿洲。
-
 
 #### 首先进入<code>bootstrap</code>官网
 
 [下载bootstrap Sass链接](http://v3.bootcss.com/getting-started/)
 
-*如图:*
+如图:
 
 
 
@@ -24,20 +22,22 @@ logo: 'assets/images/ghost.png'
 ](http://upload-images.jianshu.io/upload_images/5982972-615448eed545325d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-*下载好以后解压完目录:*
+
+
+下载好以后解压完目录:
 
 ![Sass 文件目录.png](http://upload-images.jianshu.io/upload_images/5982972-bda9c2c1575d2d7b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-*我们只需要吧　<code>assets</code>　这个目录放到项目public下面,文件目录结构图:*
+
+
+我们只需要吧　<code>assets</code>　这个目录放到项目public下面,文件目录结构图:
 
 
 ![assets目录.png](http://upload-images.jianshu.io/upload_images/5982972-957bd37fa3aaf5e5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-##### 然后点开　<code>stylesheets</code>　文件夹,我们会看到文件夹名字前面都有 **_ **下划线
-
-这么一个梗,　<code>代表文件不能被编译</code>,好我们继续往下看,bootstrap sass 结构
+然后点开　<code>stylesheets</code>　文件夹,我们会看到文件夹名字前面都有下划线,这么一个梗,<code>代表文件不能被编译</code>,好我们继续往下看,bootstrap sass 结构
 
 > 在 /assets/stylesheet/中，bootstrap文件夹和bootstrap.scss,bootstrap-compass都是我们核心文件。
 > 点开_bootstrap.scss文件　我们会看到以下目录
@@ -119,7 +119,3 @@ logo: 'assets/images/ghost.png'
   <pre>sass --watch bootstrap.min.ss:../css/bootstrap.min.css</pre>
 
   > ok ！　尽情的享受sass　带来的。。。。　
-
-
-
-  *有不足之处,还望各位老铁提出宝贵的意见!　抱拳了!!认真脸*
