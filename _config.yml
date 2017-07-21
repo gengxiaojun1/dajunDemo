@@ -2,6 +2,8 @@
 #markdown: redcarpet
 #highlighter: pygments
 markdown: kramdown
+kramdown:
+    input: GFM
 highlighter: rouge
 paginate: 10
 language: 'en-uk'
@@ -11,7 +13,7 @@ name: 'Ladies and gentlemen, welcome to mR.g's blog'
 description: "Here is the most sweet nest of program monkey, often come back to have a look!"
 
 # Author's info
-author: 'mR.g　耿wwwwww晓军'
+author: 'mR.g　耿晓军'
 # edit 'categories' in the front matter of every post to match this username
 nickname: 一只小猿
 bio: '点个赞呗!'
