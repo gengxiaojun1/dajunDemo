@@ -7,16 +7,16 @@ paginate: 10
 language: 'en-uk'
 
 # Website info
-name: '1231genxiaojun'
-description: "A be312312312y begins here."
+name: "Ladies and gentlemen, welcome to mR.g's blog"
+description: "Here is the most sweet nest of program monkey, often come back to have a look!"
 
 # Author's info
 author: 'mR.g　耿晓军'
 # edit 'categories' in the front matter of every post to match this username
-nickname: 一只小猿
-bio: '点个赞呗!'
+nickname: "一只小猿"
+bio: 'bing dong！'
 location: 'China beijing'
-name: '【简书:搜索(耿晓军)->原文章出处】'
+url: '【简书:搜索(耿晓军)->原文章出处】'
 image: 'assets/images/casper.png'
 
 short_url: 'biomadeira.github.io/jasper/'
