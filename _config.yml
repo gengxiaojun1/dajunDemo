@@ -2,23 +2,21 @@
 #markdown: redcarpet
 #highlighter: pygments
 markdown: kramdown
-kramdown:
-  input: GFM
 highlighter: rouge
-paginate: 6
+paginate: 10
 language: 'en-uk'
 
 # Website info
-name: 'Give the blog a name'
-description: "Ladies and gentlemen, welcome to mR.g's blog"
+name: 'Ladies and gentlemen, welcome to mR.g's blog'
+description: "Here is the most sweet nest of program monkey, often come back to have a look!"
 
 # Author's info
-author: 'Casper McFadden'
+author: 'mR.g　耿晓军'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+nickname: 一只小猿
+bio: '点个赞呗!'
+location: 'China beijing'
+name: '【简书:搜索(耿晓军)->原文章出处】'
 image: 'assets/images/casper.png'
 
 short_url: 'biomadeira.github.io/jasper/'
