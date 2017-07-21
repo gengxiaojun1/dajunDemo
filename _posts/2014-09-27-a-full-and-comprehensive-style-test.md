@@ -2,14 +2,17 @@
 layout: post
 cover: 'assets/images/cover3.jpg'
 title:  如何在laravel 项目中运用基于bootstrap Sass文件结构 编译自己的Sass文件
-date:   2014-09-27 10:18:00
+date:   2017-07-22 1:33:49
 tags: test content
 subclass: 'post tag-test tag-content'
 categories: 'casper'
 navigation: True
 logo: 'assets/images/ghost.png'
 ---
-- 首先进入<code>bootstrap</code>官网
+## 编程中我们会遇到多少挫折？表放弃，沙漠尽头必是绿洲。
+
+
+#### 首先进入<code>bootstrap</code>官网
 
 [下载bootstrap Sass链接](http://v3.bootcss.com/getting-started/)
 
