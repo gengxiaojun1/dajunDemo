@@ -2,8 +2,6 @@
 #markdown: redcarpet
 #highlighter: pygments
 markdown: kramdown
-kramdown:
-  input: GFM
 highlighter: rouge
 paginate: 10
 language: 'en-uk'
