@@ -9,7 +9,7 @@ paginate: 6
 language: 'en-uk'
 
 # Website info
-name: 'Give the blog a name'
+name: 'Here is the programmer's warmest home, often come back to see'
 description: "Ladies and gentlemen, welcome to mR.g's blog"
 
 # Author's info
@@ -18,7 +18,7 @@ author: 'Casper McFadden'
 nickname: casper
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
-url: 'http://biomadeira.github.io/jasper/'
+url: ‘www.dajun.shop’
 image: 'assets/images/casper.png'
 
 short_url: 'biomadeira.github.io/jasper/'
