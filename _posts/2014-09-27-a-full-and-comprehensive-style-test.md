@@ -10,9 +10,15 @@ navigation: True
 logo: 'assets/images/ghost.png'
 ---
 
-#### 首先进入<code>bootstrap</code>官网
 
-[下载bootstrap Sass链接](http://v3.bootcss.com/getting-started/)
+1. Sass介绍
+Sass是基于Ruby的 CSS预处理器。less是基于JavaScript的CSS预处理器。
+对于大文件的编译，Sass是略胜less。
+
+##### 首先进入<code>bootstrap</code>官网
+
+
+> [下载bootstrap Sass链接](http://v3.bootcss.com/getting-started/)
 
 如图:
 
