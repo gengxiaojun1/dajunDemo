@@ -19,7 +19,8 @@ SASS是一种CSS的开发工具，提供了许多便利的写法，大大节省�
 
 SASS是Ruby语言写的，但是两者的语法没有关系。不懂Ruby，照样使用。只是必须先安装Ruby，然后再安装SASS。
 
-##### 首先进入<code>bootstrap</code>官网
+----
+1. 首先进入<code>bootstrap</code>官网
 
 
 > [下载bootstrap Sass链接](http://v3.bootcss.com/getting-started/)
