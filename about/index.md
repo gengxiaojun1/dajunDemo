@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 666
+title: 关于
 class: 'post'
 navigation: false
 logo: 'assets/images/ghost.png'
