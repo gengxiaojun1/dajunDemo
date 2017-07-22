@@ -16,14 +16,14 @@ author: '耿晓军'
 nickname: "耿晓军"
 bio: 'bing dong！'
 location: 'China beijing'
-url: 'http://www.dajun.shop/jasper/'
+url: 'http://www.dajun.shop/'
 image: 'assets/images/casper.png'
 
-short_url: 'http://www.dajun.shop/jasper/'
+short_url: 'http://www.dajun.shop/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper/
+baseurl: 
 
 # Permalinks
 permalink: /:title
