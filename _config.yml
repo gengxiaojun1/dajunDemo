@@ -23,7 +23,7 @@ short_url: 'http://www.dajun.shop/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: 
+baseurl: /jasper/
 
 # Permalinks
 permalink: /:title
