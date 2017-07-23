@@ -2,8 +2,8 @@
 layout: page
 title: 关于
 class: 'post'
-navigation: false
-logo: 'assets/images/ghost.png'
+navigation: true
+logo: '/jasper/assets/images/ghost.png'
 current: about
 ---
 
