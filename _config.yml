@@ -16,14 +16,14 @@ author: '耿晓军'
 nickname: "耿晓军"
 bio: 'bing dong！'
 location: 'China beijing'
-url: 'http://www.dajun.shop/'
+url: 'http://biomadeira.github.io/jasper/'
 image: 'assets/images/casper.png'
 
-short_url: 'http://www.dajun.shop/'
+short_url: 'biomadeira.github.io/jasper/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: /jasper/
 
 # Permalinks
 permalink: /:title
@@ -56,6 +56,13 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
+username: biomadeira
+repo: jasper
+branch: master
+relative_source: ../jasper/
+destination: ../jasper-pages/
+production_url:  https://biomadeira.github.io/jasper/
+source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
   - README.md
