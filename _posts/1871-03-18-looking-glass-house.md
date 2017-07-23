@@ -8,6 +8,6 @@ subclass: 'post tag-fiction'
 categories: 'casper'
 cover: 'assets/images/cover2.jpg'
 navigation: True
-logo: '/jasper/assets/images/ghost.png'
+logo: 'assets/images/ghost.png'
 ---
 

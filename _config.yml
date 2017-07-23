@@ -4,6 +4,7 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
+paginate_path: "page:num"
 language: 'en-uk'
 
 # Website info
