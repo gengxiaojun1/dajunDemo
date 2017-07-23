@@ -56,13 +56,6 @@ exclude: [vendor]
 # or "master" otherwise
 safe: false
 lsi: false
-username: mr.g
-repo: jasper
-branch: gh-pages
-relative_source: ../
-destination: ../
-production_url:  http://www.dajun.shop/
-source_url:      http://www.dajun.shop/
 
 exclude:
   - README.md
