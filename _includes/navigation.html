@@ -1,16 +1,16 @@
 <div class="nav">
-    <h3 class="nav-title">目录</h3>
+    <h3 class="nav-title">文章系列</h3>
     <a href="#" class="nav-close">
         <span class="hidden">Close</span>
     </a>
     <ul>
         <li class="nav-home {% if page.current == 'home' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}">首页</a></li>
-        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">关于</a></li>
+        <li class="nav-about {% if page.current == 'about' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}about">关</a></li>
         <li class="nav-fables {% if page.url contains 'fables' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/fables">look me</a></li>
-        <li class="nav-speeches {% if page.url contains 'speeches' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/speeches">６６６</a></li>
+        <li class="nav-speeches {% if page.url contains 'speeches' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/speeches"></a></li>
         <li class="nav-fiction {% if page.url contains 'fiction' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}tag/fiction">Fiction</a></li>
         <li class="nav-author {% if page.current == 'author' %} nav-current{% endif %}" role="presentation"><a href="{{ site.baseurl }}author/casper">Author</a></li>
     </ul>
-    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+    <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">订阅</a>
 </div>
 <span class="nav-cover"></span>

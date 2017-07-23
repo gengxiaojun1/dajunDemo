@@ -1,9 +1,9 @@
 ---
 layout: page
-title: 关于
+title: 系列
 class: 'post'
-navigation: true
-logo: '/jasper/assets/images/ghost.png'
+navigation: false
+logo: '/assets/images/ghost.png'
 current: about
 ---
 
