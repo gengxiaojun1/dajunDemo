@@ -59,10 +59,10 @@ lsi: false
 username: mr.g
 repo: jasper
 branch: gh-pages
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  http://www.dajun.shop/jasper/
-source_url:      http://www.dajun.shop/jasper/
+relative_source: ../
+destination: ../
+production_url:  http://www.dajun.shop/
+source_url:      http://www.dajun.shop/
 
 exclude:
   - README.md
