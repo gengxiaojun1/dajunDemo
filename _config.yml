@@ -16,10 +16,10 @@ author: '耿晓军'
 nickname: "耿晓军"
 bio: 'bing dong！'
 location: 'China beijing'
-url: ' https://gengxiaojun1.github.io/dajunDemo/'
+url: ' https://gengxiaojun1.github.io/'
 image: 'assets/images/casper.png'
 
-short_url: ' https://gengxiaojun1.github.io/dajunDemo/'
+short_url: ' https://gengxiaojun1.github.io/'
 google_analytics: UA-69281367-1
 disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -61,8 +61,8 @@ repo: dajunDemo
 branch: gh-pages
 relative_source: ../dajunDemo/
 destination: ../jasper-pages/
-production_url: https://gengxiaojun1.github.io/dajunDemo/
-source_url: https://gengxiaojun1.github.io/dajunDemo/
+production_url: https://gengxiaojun1.github.io/
+source_url: https://gengxiaojun1.github.io/
 
 exclude:
   - README.md
